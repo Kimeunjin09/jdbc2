@@ -30,3 +30,10 @@ public class Run {
 		}
 	}
 }	
+
+// 순서
+// 1. CreateXMLFile
+// 2. driver.xml
+// 3. LoadXMLFile
+// 4. JDBCTemplate
+// 5. Run / TestService / TestDAO / TestVO
